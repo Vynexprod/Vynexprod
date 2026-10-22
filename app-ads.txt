@@ -1,0 +1,5 @@
+# app-ads.txt - tells ad networks which sellers are authorised to sell ads in your apps.
+# Replace the pub-0000000000000000 below with YOUR AdMob publisher ID
+# (AdMob > Settings > Account information > Publisher ID, it looks like pub-1234567890123456).
+# Keep the rest of the line exactly as it is. Delete these comment lines if you like.
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
